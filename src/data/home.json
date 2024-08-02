@@ -1,0 +1,30 @@
+{
+  "planes": [
+    {
+      "titulo": "Plan Básico",
+      "descripcion": "Con el Plan Básico de Infonet, disfruta de minutos y datos esenciales sin costo adicional."
+    },
+    {
+      "titulo": "Plan Familiar",
+      "descripcion": "El Plan Familiar de Infonet ofrece minutos ilimitados y datos compartidos para toda la familia."
+    },
+    {
+      "titulo": "Plan Ejecutivo",
+      "descripcion": "Nuestro Plan Ejecutivo incluye minutos ilimitados, datos de alta velocidad y beneficios exclusivos para profesionales."
+    }
+  ],
+  "feedback": [
+    {
+      "nombre": "Ana Rodríguez",
+      "descripcion": "El servicio de Infonet es excelente y siempre están dispuestos a ayudar."
+    },
+    {
+      "nombre": "Carlos Méndez",
+      "descripcion": "He tenido una experiencia muy positiva con la atención al cliente de Infonet."
+    },
+    {
+      "nombre": "Laura Pérez",
+      "descripcion": "La cobertura y la velocidad de Internet de Infonet son impresionantes."
+    }
+  ]
+}

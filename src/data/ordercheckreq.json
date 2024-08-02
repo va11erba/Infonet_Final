@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 4567,
+      "quantity": 2,
+      "price": 120000
+    },
+    {
+      "id": 5678,
+      "quantity": 1,
+      "price": 85000
+    }
+  ],
+  "totales": {
+    "subtotal": 325000,
+    "descuentos": 25000,
+    "total": 300000
+  },
+  "cliente": {
+    "nombre": "Ana López",
+    "email": "ana.lopez@example.com",
+    "fono": "987654321"
+  },
+  "despacho": {
+    "direccion": "Avenida Libertador 456",
+    "comuna": "Providencia"
+  },
+  "formapago": "transferencia"
+}

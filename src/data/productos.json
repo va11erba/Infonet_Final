@@ -1,0 +1,87 @@
+{
+  "productos": [
+    {
+      "id": "5678",
+      "nombre": "Samsung Galaxy S21",
+      "caracteristicas": [
+        "Camara 64 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 799000,
+      "precio_infonet": 699000
+    },
+    {
+      "id": "6789",
+      "nombre": "iPhone 12",
+      "caracteristicas": [
+        "Camara 12 MPx",
+        "4 GB RAM",
+        "64 GB ROM",
+        "5G",
+        "Face ID"
+      ],
+      "precio_normal": 999000,
+      "precio_infonet": 899000
+    },
+    {
+      "id": "7890",
+      "nombre": "Xiaomi Mi 11",
+      "caracteristicas": [
+        "Camara 108 MPx",
+        "8 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 699000,
+      "precio_infonet": 599000
+    },
+    {
+      "id": "8901",
+      "nombre": "Google Pixel 5",
+      "caracteristicas": [
+        "Camara 16 MPx",
+        "6 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 599000,
+      "precio_infonet": 499000
+    },
+    {
+      "id": "9012",
+      "nombre": "OnePlus 9",
+      "caracteristicas": [
+        "Camara 48 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 729000,
+      "precio_infonet": 629000
+    },
+    {
+      "id": "0123",
+      "nombre": "Sony Xperia 5 II",
+      "caracteristicas": [
+        "Camara 12 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 799000,
+      "precio_infonet": 699000
+    }
+  ],
+  "pagedResult": {
+    "page": 1,
+    "size": 10,
+    "total": 20
+  }
+}
